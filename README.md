@@ -16,9 +16,17 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 
 > **See the kit in action:** We onboard onto a Snapchat Login Kit sample repo in minutes using GitHub Copilot + this playbook.
 
-<video src="https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4" controls width="100%">
-  Your browser does not support the video tag. <a href="https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4">Download the demo video</a>.
-</video>
+https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+
+<!-- 
+  ⚠️ TO MAKE THE VIDEO PLAY INLINE:
+  1. Go to https://github.com/sreesundeep/copilot-onboarding-kit/issues/new
+  2. Drag-drop the video file (assets/demo.mp4) into the issue text box
+  3. GitHub will generate a URL like: https://github.com/user-attachments/assets/xxxxx
+  4. Copy that URL and replace the placeholder URL above
+  5. Commit the change — the video will now play inline in the README!
+  6. You can discard the issue (no need to submit it)
+-->
 
 ---
 
