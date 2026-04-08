@@ -25,3 +25,7 @@ __pycache__/
 # Generated output (users save their own project docs here)
 output/
 my-project-docs/
+
+# Wyra example (local only)
+examples/wyra-ai/
+examples/wyra-ai-v2/
