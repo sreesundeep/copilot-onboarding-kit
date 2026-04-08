@@ -14,7 +14,11 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 
 ## 🎥 Demo
 
-> _Watch the full walkthrough:_ [Coming Soon](#)
+> **Watch the full walkthrough:** See how we onboard onto a Snapchat Login Kit sample repo in minutes using this kit + GitHub Copilot.
+
+[![Watch the Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-MP4%20Video-red?style=for-the-badge)](https://github.com/sreesundeep/copilot-onboarding-kit/releases/download/v1.0.0/CopilotOnboardingKitDemo.mp4)
+
+📥 [Download Demo Video (104 MB)](https://github.com/sreesundeep/copilot-onboarding-kit/releases/download/v1.0.0/CopilotOnboardingKitDemo.mp4) — Shows the complete flow: setup → high-level discovery → module deep-dive → flow tracing, all powered by Copilot Chat prompts from this kit.
 
 ---
 
