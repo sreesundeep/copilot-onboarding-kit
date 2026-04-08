@@ -16,7 +16,9 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 
 > **See the kit in action:** We onboard onto a Snapchat Login Kit sample repo in minutes using GitHub Copilot + this playbook.
 
-https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4
+<video src="https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4" controls width="100%">
+  Your browser does not support the video tag. <a href="https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4">Download the demo video</a>.
+</video>
 
 ---
 
