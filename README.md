@@ -3,12 +3,26 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Copilot](https://img.shields.io/badge/Powered%20by-GitHub%20Copilot-blue?logo=github)](https://github.com/features/copilot)
+[![Stars](https://img.shields.io/github/stars/sreesundeep/copilot-onboarding-kit?style=social)](https://github.com/sreesundeep/copilot-onboarding-kit/stargazers)
+[![Forks](https://img.shields.io/github/forks/sreesundeep/copilot-onboarding-kit?style=social)](https://github.com/sreesundeep/copilot-onboarding-kit/network/members)
 
 > **Ramp up on any new codebase in 2–3 days** using GitHub Copilot, VS Code, and structured exploration.
 
 Joining a new project? Tired of spending weeks reading code before you feel productive? This kit gives you a **repeatable, prompt-driven playbook** to understand any codebase — from 10,000-foot architecture down to individual functions — using AI as your copilot.
 
-**Works with any language. Any framework. Any repo size.**
+### ✅ Works with any language · ✅ Any framework · ✅ Any repo size · ✅ Any team size
+
+---
+
+## 🎯 Who Is This For?
+
+| Audience | How You'll Use It |
+|----------|------------------|
+| 🧑‍💻 **Developers** joining a new project | Follow the 3-day playbook to understand architecture, modules, and flows |
+| 🎓 **Students & bootcamp grads** | Learn how production codebases are structured by exploring real repos |
+| 👔 **Engineering Managers** | Share with your team for consistent, fast onboarding across projects |
+| 📋 **Product Managers & Designers** | Use the non-technical prompts to understand system capabilities |
+| 🌍 **Open-source contributors** | Quickly understand any OSS repo before your first PR |
 
 ---
 
@@ -17,8 +31,6 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 > **See the kit in action:** We onboard onto a Snapchat Login Kit sample repo in minutes using GitHub Copilot + this playbook.
 
 📥 [▶ Download & Watch Demo Video](https://github.com/sreesundeep/copilot-onboarding-kit/raw/main/assets/demo.mp4)
-
-> **Want inline playback?** Edit this README on GitHub.com, drag-drop the video from `assets/demo.mp4` into the editor, replace this section with the generated `user-attachments` URL, and commit.
 
 ---
 
@@ -37,6 +49,11 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 ---
 
 ## 🗺️ The 3-Day Onboarding Roadmap
+
+[![](https://mermaid.ink/img/pako:eNp1UsFuwjAM_ZXIJ5DYD-TABB0Sh8G0y5RDSN3WIk1K4jCE-PelLQxtp_jZfu_ZTi7MeEUs4tLi0dNOo6JkKyH5-bYPLgjFr68rUTiJI2fvRqCc0iJxIaqq4Z79YIPVQiinPQfJ4NcIb9JkJE5WW_OEwfOe-19qlVNROxRjG-LopJYY3rEYFPfxj5JIB8GGGE7p1TxFyNBGi-EHZ6D5oO2OvAz9Xsp9x11DLSrKWHEbP1Td87RxzJCH8IM9HnuKPV76AcMXB-3aDkp15u2IvCxjp0nkp5J_cfJXoD_9JX_8o3IqhCOtPCfuHAXeFfQRj0GC_Q55r5W0Wn5jNk2zTpxnEbGaqIxFwj2mI6vJqoUXvMaKeYqn3LKowyLMGiwpt4DpKQ)](https://mermaid.live/edit#pako:eNp1UsFuwjAM_ZXIJ5DYD-TABB0Sh8G0y5RDSN3WIk1K4jCE-PelLQxtp_jZfu_ZTi7MeEUs4tLi0dNOo6JkKyH5-bYPLgjFr68rUTiJI2fvRqCc0iJxIaqq4Z79YIPVQiinPQfJ4NcIb9JkJE5WW_OEwfOe-19qlVNROxRjG-LopJYY3rEYFPfxj5JIB8GGGE7p1TxFyNBGi-EHZ6D5oO2OvAz9Xsp9x11DLSrKWHEbP1Td87RxzJCH8IM9HnuKPV76AcMXB-3aDkp15u2IvCxjp0nkp5J_cfJXoD_9JX_8o3IqhCOtPCfuHAXeFfQRj0GC_Q55r5W0Wn5jNk2zTpxnEbGaqIxFwj2mI6vJqoUXvMaKeYqn3LKowyLMGiwpt4DpKQ)
+
+<details>
+<summary>📝 View Mermaid source code</summary>
 
 ```mermaid
 gantt
@@ -60,6 +77,7 @@ gantt
     CI/CD & Deployment Review        :d3b, 22, 24
     Write Your Own Summary Doc       :d3c, 24, 26
 ```
+</details>
 
 ---
 
@@ -79,6 +97,11 @@ This kit is a **prompt-driven playbook** — it does NOT contain pre-generated d
 
 ### Step-by-Step Workflow
 
+[![](https://mermaid.ink/img/pako:eNptkE1qwzAQha9iZp0cwLvQpIUuSmkXlcDI0jgWkSUhja0Q4rtXdkJIF_o0P--bgbnwzCvkMa8NHTWuNBYUbCRkf963IXBO8PvtUuTW0NCb-xkoJ7UMLlaqKOi7dFadpLbasxx8pPCL8OpMROZ4ta3PWDwf-P8oVk5E6VGIbYijY5ozfNdCSqH6K0mxDaSG4E7h1D5l6HA1WvTfOA6mLJnekcuMPAw9OJ4a8tCnYOoGJ467x3dPG8ORxOD9qEXxQb1c8bJTz2h8HrMUhm34A67Qbyk)](https://mermaid.live/edit#pako:eNptkE1qwzAQha9iZp0cwLvQpIUuSmkXlcDI0jgWkSUhja0Q4rtXdkJIF_o0P--bgbnwzCvkMa8NHTWuNBYUbCRkf963IXBO8PvtUuTW0NCb-xkoJ7UMLlaqKOi7dFadpLbasxx8pPCL8OpMROZ4ta3PWDwf-P8oVk5E6VGIbYijY5ozfNdCSqH6K0mxDaSG4E7h1D5l6HA1WvTfOA6mLJnekcuMPAw9OJ4a8tCnYOoGJ467x3dPG8ORxOD9qEXxQb1c8bJTz2h8HrMUhm34A67Qbyk)
+
+<details>
+<summary>📝 View Mermaid source code</summary>
+
 ```mermaid
 flowchart LR
     A[Clone your<br/>target repo] --> B[Open in<br/>VS Code]
@@ -94,6 +117,7 @@ flowchart LR
     style F fill:#FF9800,color:#fff
     style G fill:#9C27B0,color:#fff
 ```
+</details>
 
 ### 1️⃣ Setup (~30 min)
 - Open [1-SETUP.md](1-SETUP.md)
@@ -140,17 +164,23 @@ flowchart LR
 
 ---
 
-## ⚡ Quick Start (< 5 minutes)
+## ⏱️ Choose Your Track
 
-If you only have 5 minutes, open **GitHub Copilot Chat** in VS Code at the repo root and paste:
+Don't have 3 days? Pick the track that fits your schedule:
+
+| Track | Time | What You Get |
+|-------|------|-------------|
+| ⚡ **Quick Scan** | 30 min | Project purpose + tech stack + repo structure |
+| 🏃 **Speed Run** | 2 hours | Architecture diagram + key modules + one flow traced |
+| 🎯 **Full Onboarding** | 2–3 days | Complete understanding — architecture to individual functions |
+
+**Quick Scan — paste this one prompt and you're started:**
 
 ```
 @workspace Explain this project at a high level. What does it do, what tech stack does
 it use, how is the repo structured, and what are the main components/services?
 Include a Mermaid architecture diagram.
 ```
-
-That single prompt gives you a solid mental model to start from.
 
 ---
 
@@ -193,6 +223,83 @@ git add docs/onboarding && git commit -m "Add onboarding kit"
 ## 🌟 Star This Repo
 
 If this kit helped you onboard faster, give it a ⭐ — it helps others discover it!
+
+---
+
+## ❓ Frequently Asked Questions
+
+<details>
+<summary><b>Does this only work with GitHub Copilot?</b></summary>
+
+The prompts are optimized for GitHub Copilot Chat's `@workspace` feature, but most prompts work with **any AI coding assistant** — ChatGPT, Claude, Gemini, Cursor, etc. Just paste the prompt along with your code context.
+</details>
+
+<details>
+<summary><b>Does it work for non-English codebases?</b></summary>
+
+Yes! The prompts are language-agnostic. You can also ask Copilot to respond in your preferred language by adding "Respond in [language]" to any prompt.
+</details>
+
+<details>
+<summary><b>What if I don't have GitHub Copilot?</b></summary>
+
+You can still use this kit! Copy the prompts into any AI chat (ChatGPT, Claude, etc.) and paste relevant code files as context. The structured approach and templates work regardless of the AI tool.
+</details>
+
+<details>
+<summary><b>Can I use this for non-code projects?</b></summary>
+
+The prompts are designed for codebases, but the methodology (top-down discovery → module analysis → flow tracing) works for any complex system — infrastructure, data pipelines, documentation sites, etc.
+</details>
+
+<details>
+<summary><b>How is this different from just reading the README?</b></summary>
+
+Most READMEs tell you *how to run* the project, not *how to understand* it. This kit gives you a structured process to understand architecture, design decisions, data flows, and module interactions — the stuff that takes weeks to absorb by reading code alone.
+</details>
+
+---
+
+## 💼 Real-World Use Cases
+
+| Scenario | How This Kit Helps |
+|----------|-------------------|
+| 🆕 **New job, Day 1** | Follow the 3-day plan to understand the codebase before your first standup |
+| 🔀 **Switching teams** | Ramp up on the new team's services without waiting for knowledge transfer |
+| 🌍 **Open-source contribution** | Understand any repo's architecture before submitting your first PR |
+| 📚 **Student project** | Learn how real production codebases are structured and documented |
+| 🤝 **Client project handoff** | Generate architecture docs for a project you're inheriting |
+| 📝 **Code review prep** | Quickly understand unfamiliar areas of the codebase before reviewing PRs |
+| 🏗️ **Architecture documentation** | Use the output templates to create living architecture docs for your team |
+
+---
+
+## 🗺️ Roadmap
+
+We're actively improving this kit! Here's what's coming:
+
+| Feature | Status |
+|---------|--------|
+| 🖼️ Auto-render Mermaid diagrams to SVG/PNG via GitHub Actions | 🔜 Planned |
+| 📄 Downloadable one-page cheat sheet (PDF) | 🔜 Planned |
+| 🎯 Role-specific prompt packs (PM, Designer, QA) | 🔜 Planned |
+| 🌐 Translations (Spanish, Mandarin, Japanese, Portuguese) | 🙏 Community help welcome |
+| 🧩 VS Code extension with built-in prompt snippets | 💡 Exploring |
+| 🖥️ Interactive web tool — paste repo URL, get onboarding plan | 💡 Exploring |
+| 📦 CLI tool (`npx copilot-onboarding-kit init`) | 💡 Exploring |
+| 🏗️ Framework-specific prompt packs (React, Spring, Django, .NET) | 🙏 Community help welcome |
+
+**Want to help?** Check [CONTRIBUTING.md](CONTRIBUTING.md) or open a [Discussion](https://github.com/sreesundeep/copilot-onboarding-kit/discussions)!
+
+---
+
+## 🏆 Showcase
+
+Using this kit to onboard your team? We'd love to hear about it!
+
+**Share your story** → [Open a Discussion](https://github.com/sreesundeep/copilot-onboarding-kit/discussions) with the tag "Show & Tell"
+
+<!-- Add testimonials here as they come in -->
 
 ---
 
