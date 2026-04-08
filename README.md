@@ -16,13 +16,15 @@ Joining a new project? Tired of spending weeks reading code before you feel prod
 
 ## 🎯 Who Is This For?
 
+**Built for software developers by default.** Also useful for other roles:
+
 | Audience | How You'll Use It |
 |----------|------------------|
-| 🧑‍💻 **Developers** joining a new project | Follow the 3-day playbook to understand architecture, modules, and flows |
-| 🎓 **Students & bootcamp grads** | Learn how production codebases are structured by exploring real repos |
-| 👔 **Engineering Managers** | Share with your team for consistent, fast onboarding across projects |
-| 📋 **Product Managers & Designers** | Use the non-technical prompts to understand system capabilities |
-| 🌍 **Open-source contributors** | Quickly understand any OSS repo before your first PR |
+| **🧑‍💻 Software Developers (default)** | **Follow the 3-day playbook to understand architecture, modules, and flows** |
+| 🎓 Students & bootcamp grads | Learn how production codebases are structured by exploring real repos |
+| 👔 Engineering Managers | Share with your team for consistent, fast onboarding across projects |
+| 📋 Product Managers & Designers | Use the non-technical prompts to understand system capabilities |
+| 🌍 Open-source contributors | Quickly understand any OSS repo before your first PR |
 
 ---
 
@@ -166,13 +168,13 @@ flowchart LR
 
 ## ⏱️ Choose Your Track
 
-Don't have 3 days? Pick the track that fits your schedule:
+This kit defaults to the **🎯 Full Onboarding (3 days)** track for **software developers**. Short on time? Pick a faster track:
 
 | Track | Time | What You Get |
 |-------|------|-------------|
-| ⚡ **Quick Scan** | 30 min | Project purpose + tech stack + repo structure |
-| 🏃 **Speed Run** | 2 hours | Architecture diagram + key modules + one flow traced |
-| 🎯 **Full Onboarding** | 2–3 days | Complete understanding — architecture to individual functions |
+| ⚡ Quick Scan | 30 min | Project purpose + tech stack + repo structure |
+| 🏃 Speed Run | 2 hours | Architecture diagram + key modules + one flow traced |
+| **🎯 Full Onboarding (default)** | **2–3 days** | **Complete understanding — architecture to individual functions** |
 
 **Quick Scan — paste this one prompt and you're started:**
 
